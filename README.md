@@ -147,7 +147,6 @@ Contributions are welcome!
 
 **Your Name**
 GitHub: https://github.com/Syedzabiulla125
-
 ---
 
 ⭐ If you like this project, give it a star!
