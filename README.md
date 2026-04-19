@@ -134,13 +134,6 @@ Contributions are welcome!
 3. Make changes
 4. Submit a pull request
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 🙌 Acknowledgements
 
@@ -153,7 +146,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Syedzabiulla125
 
 ---
 
