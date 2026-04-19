@@ -146,7 +146,7 @@ Contributions are welcome!
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: https://github.com/Syedzabiulla125
+GitHub: [https://github.com/Syedzabiulla125](https://github.com/Syedzabiula125)
 ---
 
 ⭐ If you like this project, give it a star!
